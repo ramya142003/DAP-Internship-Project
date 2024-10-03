@@ -28,4 +28,4 @@ This movie recommendation system is developed using Python, leveraging various l
         <li>How does popularity vary with movie revenue?</li>
     </ol>
 
-  <p>For more details, you can view the project here: <a href=""C:\Users\bsrao\Desktop\Ramya\DA Internship Project\Python Project"" target="_blank">Movie Recommendation Analysis Project</a>.</p>
+  <p>For more details, you can view the project here: <a href="https://github.com/ramya142003/DAP-Internship-Project/tree/main/Python%20Project" target="_blank">Movie Recommendation Analysis Project</a>.</p>
